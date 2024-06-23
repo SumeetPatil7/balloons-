@@ -2,7 +2,7 @@
 
 
 
-![logo](https://github.com/mumal885/Balloons/blob/main/bb.png)
+![logo](https://github.com/SumeetPatil7/balloons-/blob/main/balloons%20%20%2B/bb.png)
 # Balloons
 This Balloons is coded in html, css,js.
 
